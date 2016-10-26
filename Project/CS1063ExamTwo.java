@@ -38,7 +38,6 @@ public class CS1063ExamTwo {
     
     System.out.println(median(a,b,c));
     
-    
     String s = "99BottleOfBierOnTheWall99BotlesOfBier,TakeOneDownPassItAround,98BottlesOfBierOnTheWall";
     countLettersAndDigits(s);
     
@@ -99,14 +98,6 @@ public class CS1063ExamTwo {
       
     }else
       System.out.println("Pass");
-    
-    
-    
-    
-    
-    
-    
-    
     
     //print "BUY" or "PASS" depending if at least one Color choice is Color.RED
     //and the dress size is between 6 - 10
