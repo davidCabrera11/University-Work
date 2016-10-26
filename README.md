@@ -3,4 +3,4 @@
 Labs done for UTSA 
 CS1083 Intro to Computer Programming
 
-Other coding problems olved
+Other coding problems solved
