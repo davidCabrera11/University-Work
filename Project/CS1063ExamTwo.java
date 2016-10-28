@@ -113,12 +113,12 @@ public class CS1063ExamTwo {
       
       
     }
-    
+    return x;
     
     //use NESTED if-else statements to return the middle value from the set of parameters {x, y, z}
     //call the method in "main" using median(8, 9, 2) for values 
     
-    return x;  //must change this to be value of the median 
+      //must change this to be value of the median 
     
   }
   
@@ -149,9 +149,7 @@ public class CS1063ExamTwo {
   
   public static int getQuotient(int dividend, int divisor){
     
-    int quotient = dividend / divisor ;
-    
-    return quotient;
+    return dividend / divisor;
     
     
     //(20 pts)
