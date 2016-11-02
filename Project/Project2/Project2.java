@@ -79,6 +79,8 @@ public class Project2{
       g.fillRect(enemyX, ENEMY_Y, ENEMY_SIZE, ENEMY_SIZE);
       enemyX = 0 ;
       
+      
+      //THIS PART OF CODE CAN BE GREATLY IMPROVED !!!!!!!!!!!!!!
       for(int ENEMY_Y = -200;ENEMY_Y <350; ENEMY_Y--){
       g.setColor(Color.BLACK);
       g.fillRect(enemyX, ENEMY_Y, ENEMY_SIZE, ENEMY_SIZE);
