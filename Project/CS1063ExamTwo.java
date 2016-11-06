@@ -30,37 +30,18 @@ public class CS1063ExamTwo {
     
     System.out.println();
     
-    int a,b,c;
-    
-    a = 8;
-    b = 9;
-    c = 2;
-    
-    System.out.println(median(a,b,c));
+    median(8,9,2);
     
     String s = "99BottleOfBierOnTheWall99BotlesOfBier,TakeOneDownPassItAround,98BottlesOfBierOnTheWall";
+    
     countLettersAndDigits(s);
     
     int dividend = 20;
     int divisor = 3 ;
-    System.out.println(getQuotient(dividend,divisor));
-    
-    int a1 ,b1 ,c1 ,a2,b2,c2;
-    
-    a1 = 20 ;
-    
-    b1 =  100;
-    
-    c1 =  30;
-    
-    a2 =   100;
-    
-    b2 =  105;
-    
-    c2 =  30;
+    getQuotient(dividend,divisor);
     
     
-    if((detectedHit(a1,b1,c1)== true)){
+    if((detectedHit(20,100,30)== true)){
      System.out.println("HIT"); 
       
     }else{
@@ -68,7 +49,7 @@ public class CS1063ExamTwo {
      
     }
      
-    if((detectedHit(a2,b2,c2))== true ){
+    if((detectedHit(100,105,30))== true ){
      System.out.println("HIT");  
       
       
