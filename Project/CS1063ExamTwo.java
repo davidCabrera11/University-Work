@@ -77,9 +77,9 @@ public class CS1063ExamTwo {
     if((choiceOne == Color.RED &&(dressSize>=6 &&dressSize<= 10 )) || (choiceTwo == Color.RED &&(dressSize>=6 &&dressSize<= 10 ))){
       System.out.println("BUY");
       
-    }else
+    }else{
       System.out.println("Pass");
-    
+    }
     //print "BUY" or "PASS" depending if at least one Color choice is Color.RED
     //and the dress size is between 6 - 10
     //call this method in "main"
