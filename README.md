@@ -1,4 +1,4 @@
-# University-work
+# University Work
 
 Labs and Project Folder  
 Assignments done for UTSA 
